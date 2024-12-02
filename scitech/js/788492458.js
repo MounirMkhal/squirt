@@ -1,0 +1,56 @@
+window.awforms = window.awforms || {};
+if (!window.awforms['788492458']) {
+(function() {
+var r,
+formString = "<style type=\"text/css\">#af-form-788492458 .af-body{font-family:Verdana, sans-serif;font-size:11px;color:#000000;background-image:none;background-position:inherit;background-repeat:no-repeat;padding-top:15px;padding-bottom:15px;}#af-form-788492458 .af-body .privacyPolicy{font-family:Verdana, sans-serif;font-size:11px;color:#000000;}#af-form-788492458 {border-style:solid;border-width:1px;border-color:#8C8C8C;background-color:#FFFFFF;}#af-form-788492458 .af-standards .af-element{padding-left:15px;padding-right:15px;}#af-form-788492458 .af-quirksMode{padding-left:15px;padding-right:15px;}#af-form-788492458 .af-header{font-family:Verdana, sans-serif;font-size:16px;color:#FFFFFF;border-top-style:none;border-right-style:none;border-bottom-style:none;border-left-style:none;border-width:1px;background-image:url(\"https://forms.aweber.com/images/auto/body/888/888/222/222\");background-position:top left;background-repeat:repeat-x;background-color:#222222;padding-left:10px;padding-right:10px;padding-top:9px;padding-bottom:9px;}#af-form-788492458 .af-footer{font-family:Verdana, sans-serif;font-size:12px;color:#000000;border-top-style:none;border-right-style:none;border-bottom-style:none;border-left-style:none;border-width:1px;background-image:none;background-color:transparent;padding-left:15px;padding-right:15px;padding-top:0px;padding-bottom:0px;}#af-form-788492458 .af-body input.text, #af-form-788492458 .af-body textarea{border-color:#000000;border-width:1px;border-style:solid;font-family:Verdana, sans-serif;font-size:16px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;background-color:#FFFFFF;}#af-form-788492458 .af-body input.text:focus, #af-form-788492458 .af-body textarea:focus{border-style:solid;border-width:1px;border-color:#5E5E5E;background-color:#FFFAD6;}#af-form-788492458 .af-body label.previewLabel{font-family:Verdana, sans-serif;font-size:12px;font-weight:normal;font-style:normal;text-decoration:none;color:#4D4D4D;display:block;float:left;text-align:left;width:25%;}#af-form-788492458 .af-body .af-textWrap{width:70%;display:block;float:right;}#af-form-788492458 .buttonContainer input.submit{font-family:Verdana, sans-serif;font-size:14px;font-weight:normal;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#5E5E5E;background-image:none;}#af-form-788492458 .buttonContainer{text-align:right;}#af-form-788492458 .af-body label.choice{font-family:inherit;font-size:inherit;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;}#af-form-788492458 .af-body a{font-weight:normal;font-style:normal;text-decoration:underline;color:#000000;}#af-form-788492458, #af-form-788492458 .quirksMode{width:100%;max-width:425.0px;}#af-form-788492458.af-quirksMode{overflow-x:hidden;}#af-form-788492458{overflow:hidden;}#af-form-788492458 button,#af-form-788492458 input,#af-form-788492458 submit,#af-form-788492458 textarea,#af-form-788492458 select,#af-form-788492458 label,#af-form-788492458 optgroup,#af-form-788492458 option {float:none;margin:0;position:static;}#af-form-788492458 select,#af-form-788492458 label,#af-form-788492458 optgroup,#af-form-788492458 option {padding:0;}#af-form-788492458 input,#af-form-788492458 button,#af-form-788492458 textarea,#af-form-788492458 select {font-size:100%;}#af-form-788492458 .buttonContainer input.submit {width:auto;}#af-form-788492458 form,#af-form-788492458 textarea,.af-form-wrapper,.af-form-close-button,#af-form-788492458 img {float:none;color:inherit;margin:0;padding:0;position:static;background-color:none;border:none;}#af-form-788492458 div {margin:0;}#af-form-788492458 {display:block;}.af-clear{clear:both;}.af-form{box-sizing:border-box; margin:auto; text-align:left;}.af-element{padding-bottom:5px; padding-top:5px;}.af-form-wrapper{text-indent: 0;}.af-body input.submit, .af-body input.image, .af-form .af-element input.button{float:none!important;}.af-body input.submit{white-space: inherit;}.af-body input.text{width:100%; padding:2px!important;}.af-body .af-textWrap{text-align:left;}.af-element label{float:left; text-align:left;}.lbl-right .af-element label{text-align:right;}.af-quirksMode .af-element{padding-left: 0!important; padding-right: 0!important;}.af-body.af-standards input.submit{padding:4px 12px;}.af-body input.image{border:none!important;}.af-body input.text{float:none;}.af-element label{display:block; float:left;}body {}#af-form-788492458 .bodyText p {  margin: 0 0 1em !important;}#af-form-788492458 .af-body {  padding-top:}#af-form-788492458 .af-body .af-textWrap {  width: 100% !important;}#af-form-788492458 .af-body .af-element {  padding-top: 0px!important;  padding-bottom: 0px!important;}#af-form-788492458 .af-body .af-element:first-child {  margin-top: 0 !important;}#af-form-788492458 .af-body label.previewLabel {  font-weight: 700 !important;  margin-top: 0.25rem !important;  margin-bottom: .25rem !important;}#af-form-788492458 .af-body input.text,#af-form-788492458 .af-body textarea {  border-radius: 3px !important;  box-sizing: border-box !important;  color: #444444;  font-size: 1rem;  margin-bottom: 0.75rem !important;  padding: 8px 12px !important;  -webkit-transition-duration: 0.3s;          transition-duration: 0.3s;}#af-form-788492458 .af-body select {  width: 100%;}#af-form-788492458 .af-body .af-dateWrap select {  width: 33%;}#af-form-788492458 .choiceList-radio-stacked {  margin-bottom: 1rem !important;  width: 100% !important;}#af-form-788492458 .af-element-radio {  margin: 0 !important;}#af-form-788492458 .af-element-radio input.radio {  display: inline;  height: 0;  opacity: 0;  overflow: hidden;  width: 0;}#af-form-788492458 .af-element-radio input.radio:checked ~ label {  font-weight: 700 !important;}#af-form-788492458 .af-element-radio input.radio:focus ~ label {  box-shadow: inset 0 0 0 2px rgba(25,35,70,.25);}#af-form-788492458 .af-element-radio input.radio:checked ~ label:before {  background-color: #777777;  border-color: #d6dee3;}#af-form-788492458 .af-element-radio label.choice {  border: 1px solid #d6dee3;  border-radius: 3px !important;  display: block !important;  font-weight: 300 !important;  margin: 0.5rem 0 !important;  padding: 1rem 1rem 1rem 2rem !important;  position: relative;  -webkit-transition-duration: 0.3s;          transition-duration: 0.3s;}#af-form-788492458 .af-element-radio label.choice:before {  background-color: #FFF;  border: 1px solid #d6dee3;  border-radius: 50%;  content: \'\';  height: 0.75rem;  margin-left: -1.3rem;  position: absolute;  -webkit-transition-duration: 0.3s;          transition-duration: 0.3s;  width: 0.75rem;}#af-form-788492458 .buttonContainer {  box-sizing: border-box !important;}#af-form-788492458 .af-footer {  box-sizing: border-box !important;}#af-form-788492458 .af-footer p {  margin: 0 !important;}#af-form-788492458 input.submit,#af-form-788492458 #webFormSubmitButton {  border: none;  border-radius: 3px !important;  font-weight: bold;  margin-top: 0.5rem !important;  margin-bottom: 1rem !Important;  padding: 0.6rem 1.5rem !important;  -webkit-transition-duration: 0.3s;          transition-duration: 0.3s;  }#af-form-788492458 input.submit:hover,#af-form-788492458 #webFormSubmitButton:hover {  cursor: pointer;  opacity: 0.8;}#af-form-788492458 input.text:hover {  cursor: pointer;  opacity: 0.8;}.poweredBy a,.privacyPolicy p {  color: #000000 !important;  font-size: 0.65rem !important;}</style><form method=\"post\" class=\"af-form-wrapper\" accept-charset=\"UTF-8\" action=\"https://www.aweber.com/scripts/addlead.pl\"  ><div style=\"display: none;\"><input type=\"hidden\" name=\"meta_web_form_id\" value=\"788492458\" /><input type=\"hidden\" name=\"meta_split_id\" value=\"\" /><input type=\"hidden\" name=\"listname\" value=\"awlist6314495\" /><input type=\"hidden\" name=\"redirect\" value=\"https://www.aweber.com/thankyou-coi.htm?m=text\" id=\"redirect_45abc45f6a3a2db6ddae4e56ba797a4a\" /><input type=\"hidden\" name=\"meta_adtracking\" value=\"My_Web_Form\" /><input type=\"hidden\" name=\"meta_message\" value=\"1\" /><input type=\"hidden\" name=\"meta_required\" value=\"name,email\" /><input type=\"hidden\" name=\"meta_tooltip\" value=\"\" /></div><div id=\"af-form-788492458\" class=\"af-form\"><div id=\"af-body-788492458\" class=\"af-body af-standards\"><div class=\"af-element\"><label class=\"previewLabel\" for=\"awf_field-117474923\">Name:</label><div class=\"af-textWrap\"><input id=\"awf_field-117474923\" type=\"text\" name=\"name\" class=\"text\" value=\"\" onfocus=\" if (this.value == \'\') { this.value = \'\'; }\" onblur=\"if (this.value == \'\') { this.value=\'\';} \" tabindex=\"500\" /></div><div class=\"af-clear\"></div></div><div class=\"af-element\"><label class=\"previewLabel\" for=\"awf_field-117474924\">Email:</label><div class=\"af-textWrap\"><input class=\"text\" id=\"awf_field-117474924\" type=\"email\" name=\"email\" value=\"\" tabindex=\"501\" onfocus=\" if (this.value == \'\') { this.value = \'\'; }\" onblur=\"if (this.value == \'\') { this.value=\'\';}\" /></div><div class=\"af-clear\"></div></div><div class=\"af-element buttonContainer\"><input name=\"submit\" class=\"submit\" type=\"submit\" value=\"Subscribe\" tabindex=\"502\" /><div class=\"af-clear\"></div></div><div class=\"af-element privacyPolicy\" style=\"text-align: center\"><p>We respect your <a title=\"Privacy Policy\" href=\"https://www.aweber.com/permission.htm\" target=\"_blank\" rel=\"nofollow\">email privacy</a></p><div class=\"af-clear\"></div></div><div class=\"af-element tag\" style=\"display:none;\"><input id=\"awf_tag-117474927\" type=\"hidden\" name=\"tag_117474927\" value=\"main\" /></div></div></div></form>";
+// Special handling for facebook iOS since it cannot open new windows
+if (navigator.userAgent.indexOf('FBIOS') !== -1 || navigator.userAgent.indexOf('Twitter for iPhone') !== -1) {
+formString = formString.replace(/ target=\"_blank\"/g, '');
+}
+try {
+r = document.querySelectorAll('.AW-Form-788492458');
+}
+catch (exception) {
+// do nothing, the try catch is if the doctype is left as just HTML
+}
+if (r.length > 0) {
+for(var i=0; i < r.length; i++){
+var s = document.createElement('div');
+s.innerHTML = formString;
+r[i].insertBefore(s, r[i].firstChild);
+}
+} else {
+document.write(formString);
+}
+})();
+window.awforms['788492458'] = true;
+}
+if (typeof window.awf_Form_=='undefined') window.awf_Form_ = new Object();
+awf_Form_.isPreview = false;
+awf_Form_.setCookie = function(name, value, expires, path, domain, secure) {
+var curCookie = name + "=" + escape(value) +
+((expires) ? "; expires=" + expires.toGMTString() : "") +
+((path) ? "; path=" + path : "") +
+((domain) ? "; domain=" + domain : "") +
+((secure) ? "; secure" : "");
+document.cookie = curCookie;
+}
+awf_Form_.getCookie = function(name) {
+var dc = document.cookie;
+var prefix = name + "=";
+var begin = dc.indexOf("; " + prefix);
+if (begin == -1) {
+begin = dc.indexOf(prefix);
+if (begin != 0) return null;
+} else
+begin += 2;
+var end = document.cookie.indexOf(";", begin);
+if (end == -1)
+end = dc.length;
+return unescape(dc.substring(begin + prefix.length, end));
+}
+
+var unique_track = new Image();
+unique_track.src = "https://forms.aweber.com/form/displays.htm?id=7BwcLJxMLKwc";
+
+
